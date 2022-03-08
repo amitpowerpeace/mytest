@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-This is sample for the gir test 
-No I want to modify
-This is my thord commit
-=======
-This is sample for the gir test 
->>>>>>> parent of 6b41b0a (second commit)
